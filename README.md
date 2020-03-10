@@ -1,2 +1,2 @@
-# New-career
-Building projects for my portfolio to persue a career in development. 
+# New career
+Building projects for my portfolio to persue a career in software development. 
